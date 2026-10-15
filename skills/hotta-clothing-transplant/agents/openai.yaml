@@ -1,0 +1,4 @@
+interface:
+  display_name: "幻塔服装移植与动作修复"
+  short_description: "保留原角色脸发体型，移植服装鞋饰并修复动作脱节，完成 Cook 与 Pak/Sig 交付"
+  default_prompt: "使用 $hotta-clothing-transplant 将外部模型的服装、鞋和配件适配幻塔原版身体与骨架，修复静态和动作问题，完成 Cook、Pak/Sig 封包与实机检查。"

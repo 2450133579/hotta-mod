@@ -1,0 +1,5 @@
+interface:
+  display_name: "幻塔模型检查"
+  short_description: "精确检查幻塔模型的选区、材质边界、局部权重、法线和动作变形"
+  default_prompt: "使用 $hotta-blender-inspection 检查本次模型的受影响区域并说明证据范围。"
+

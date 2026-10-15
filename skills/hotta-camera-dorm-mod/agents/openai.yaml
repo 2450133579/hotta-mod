@@ -1,0 +1,5 @@
+interface:
+  display_name: "幻塔相机与宿舍"
+  short_description: "原版幻塔第一人称、玩家与角色互动、镜头交接和退出恢复工作流"
+  default_prompt: "使用 $hotta-camera-dorm-mod 完成本次相机或宿舍互动修改并检查状态恢复。"
+

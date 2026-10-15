@@ -1,0 +1,5 @@
+interface:
+  display_name: "幻塔资源诊断"
+  short_description: "选择幻塔 Cooked 资源读写路线并诊断材质输入及客户端动画绑定"
+  default_prompt: "使用 $hotta-cooked-asset-routing 定位本次资源问题并选择适合的处理路线。"
+
